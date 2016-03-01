@@ -150,7 +150,7 @@
              [[EaseMob sharedInstance].chatManager asyncFetchMyGroupsList];
              
              //发送自动登陆状态通知
-             [[NSNotificationCenter defaultCenter] postNotificationName:KNOTIFICATION_LOGINCHANGE object:@YES];
+             [[NSNotificationCenter defaultCenter] postNotificationName:KNOTIFICATION_LOGINCHANGE object:@NO];
              
              //保存最近一次登录用户名
              [self saveLastLoginUsername];

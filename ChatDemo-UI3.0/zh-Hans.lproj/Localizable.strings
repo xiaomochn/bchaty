@@ -78,8 +78,8 @@
 "error.recordTooShort" = "录制时间过短";
 
 //login
-"login.beginAutoLogin" = "自动登录开始...";
-"login.endAutoLogin" = "自动登录结束...";
+"login.beginAutoLogin" = "自动登录开始111...";
+"login.endAutoLogin" = "自动登录结束111...";
 "login.errorAutoLogin" = "自动登录失败.";
 "login.nameNotSupportZh" = "用户名不支持中文";
 "login.ongoing" = "正在登陆...";
